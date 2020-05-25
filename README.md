@@ -1,0 +1,1 @@
+# plugin-resource-storage
